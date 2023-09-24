@@ -1,0 +1,20 @@
+password website:
+	zjJctk$Rf(V(7sE4u3mk
+
+Website Link:
+	https://jayveepcstore.000webhostapp.com/
+
+
+
+Password Database:
+	XWZ/--Y&nAXS~D/3
+
+
+ $servername="localhost";
+    $user="id19327922_pcstore1";
+    $pass="XWZ/--Y&nAXS~D/3";
+    $dbname="id19327922_pcstore";
+
+
+
+	
